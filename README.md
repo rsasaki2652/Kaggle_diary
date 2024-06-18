@@ -39,3 +39,7 @@
 【PC】
 	・Ctrl + TabでGoogle Chromeのタブを右隣へ移動できる
 	・Cmd + 9 でGoogle Chromeの一番右のタブへ移動できる
+
+2024.6.18
+・モデルはLightGBMが主流
+・タイタニックチュートリアルを読み進める
